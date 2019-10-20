@@ -1,0 +1,15 @@
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Presentacion\obj\Debug\CrudBd-Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Presentacion\obj\Debug\CrudBd_Presentacion.Form1.resources
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Presentacion\obj\Debug\CrudBd_Presentacion.Properties.Resources.resources
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Presentacion\obj\Debug\CrudBd-Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Presentacion\obj\Debug\CrudBd-Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Presentacion\bin\Debug\CrudBd-Presentacion.exe.config
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Presentacion\bin\Debug\CrudBd-Presentacion.exe
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Presentacion\bin\Debug\CrudBd-Presentacion.pdb
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Presentacion\bin\Debug\ClassLibrary1.dll
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Presentacion\bin\Debug\CrudBd-Logica.dll
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Presentacion\bin\Debug\ClassLibrary1.pdb
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Presentacion\bin\Debug\CrudBd-Logica.pdb
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Presentacion\obj\Debug\CrudBd-Presentacion.csproj.CopyComplete
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Presentacion\obj\Debug\CrudBd-Presentacion.exe
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Presentacion\obj\Debug\CrudBd-Presentacion.pdb

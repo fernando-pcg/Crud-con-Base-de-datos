@@ -1,0 +1,6 @@
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Logica\bin\Debug\CrudBd-Logica.dll
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Logica\bin\Debug\CrudBd-Logica.pdb
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Logica\obj\Debug\CrudBd-Logica.csprojAssemblyReference.cache
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Logica\obj\Debug\CrudBd-Logica.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Logica\obj\Debug\CrudBd-Logica.dll
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\CrudBd-Logica\obj\Debug\CrudBd-Logica.pdb

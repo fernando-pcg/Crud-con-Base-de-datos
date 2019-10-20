@@ -1,0 +1,6 @@
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\ClassLibrary1\obj\Debug\CrudBd-Datos.csprojAssemblyReference.cache
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\ClassLibrary1\obj\Debug\CrudBd-Datos.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Fernando Figuereo\source\repos\CrudBd-Presentacion\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
